@@ -1,5 +1,5 @@
 # Yandex-disk-folder-download-fix
-After some troubles service don`t work correctly, so lets fix it!
+After some troubles service don`t work correctly, so let fix it!
 "Download the фото.bat" (rewrote):
 
 saved in the "native" encoding of the console (cp866) — Cyrillic does not break the startup.;
